@@ -1,0 +1,16 @@
+Author: Pavan Prabhakar Bhat(pxb8715@rit.edu)
+
+Test Case 1: 
+
+Chose the same case as given in the problem statement of Lab 9.
+
+
+Test Case 2:
+
+Here there are more number of cows and paint balls as the first test case but the paint balls are not triggered
+through the new ones that have been added in the field which causes the test case to be disjoint.
+
+Test Case 3:
+
+None of the paint balls trigger each other which might result in formation of any kind of loop. With most of the
+inputs being cows in the file.
